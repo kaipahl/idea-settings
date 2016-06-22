@@ -1,3 +1,5 @@
+'use strict';
+
 /*  ====== POSTCSS ======
  *  - Automatisches Ergänzen von browserspezifische CSS-Prefixes
  *
