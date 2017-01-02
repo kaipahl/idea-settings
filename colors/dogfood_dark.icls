@@ -1,5 +1,4 @@
 <scheme name="dogfood-dark" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Input Mono Condensed" />
     <option name="EDITOR_FONT_SIZE" value="14" />
@@ -1837,33 +1836,41 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="ffdd00" />
+        <option name="FOREGROUND" value="c2ff" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="3ad900" />
+        <option name="FOREGROUND" value="c2ff" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="ff628c" />
+        <option name="FOREGROUND" value="808080" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_NS_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="1e43ff" />
+      </value>
+    </option>
+    <option name="XML_PROLOGUE">
+      <value>
+        <option name="FOREGROUND" value="1e43ff" />
+        <option name="BACKGROUND" value="2240" />
+      </value>
+    </option>
     <option name="XML_TAG">
       <value>
-        <option name="FOREGROUND" value="e1efff" />
+        <option name="FOREGROUND" value="1e43ff" />
       </value>
     </option>
     <option name="XML_TAG_DATA">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="9effff" />
+        <option name="FOREGROUND" value="3884ff" />
       </value>
     </option>
     <option name="YAML_COMMENT">
