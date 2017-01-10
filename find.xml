@@ -3,7 +3,6 @@
     <option name="customScope" value="Favorite 'Templates'" />
     <option name="defaultScopeName" value="Favorite 'Templates'" />
     <option name="SEARCH_SCOPE" value="Favorite 'Templates'" />
-    <option name="FILE_MASK" value="*.mustache" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>

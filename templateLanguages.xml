@@ -1,0 +1,5 @@
+<application>
+  <component name="TemplateDataLanguagePatterns">
+    <pattern value="*.hbs;*.mustache" lang="HTML" />
+  </component>
+</application>
