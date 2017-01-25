@@ -3,6 +3,7 @@
     <option name="customScope" value="Favorite 'Templates'" />
     <option name="defaultScopeName" value="Favorite 'Templates'" />
     <option name="SEARCH_SCOPE" value="Favorite 'Templates'" />
+    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -15,9 +16,9 @@
       <mask>*.js</mask>
       <mask>*.css</mask>
       <mask>*.scss</mask>
-      <mask>*.phtml</mask>
       <mask>*.less</mask>
       <mask>*.mustache</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
