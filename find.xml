@@ -14,12 +14,12 @@
       <mask>*.mxml</mask>
       <mask>*.html</mask>
       <mask>*.php</mask>
-      <mask>*.js</mask>
       <mask>*.css</mask>
       <mask>*.scss</mask>
       <mask>*.less</mask>
       <mask>*.mustache</mask>
       <mask>*.phtml</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
