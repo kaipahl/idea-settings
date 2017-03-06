@@ -7,12 +7,12 @@
     <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
     <notification groupId="IDE Fatal Errors" displayType="NONE" />
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="IGNORE_GROUP" />
     <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
     <notification groupId="Node.js Boilerplate Project Generator" displayType="STICKY_BALLOON" />
     <notification groupId="PHP Debugger" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="PHP-CGI Server" displayType="STICKY_BALLOON" />
     <notification groupId="Plugins Lifecycle Group" displayType="STICKY_BALLOON" />
+    <notification groupId="RVM Support" displayType="NONE" />
     <notification groupId="Spring Configuration Check" displayType="STICKY_BALLOON" />
     <notification groupId="TFS" displayType="TOOL_WINDOW" />
     <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
