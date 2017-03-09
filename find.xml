@@ -3,6 +3,7 @@
     <option name="customScope" value="templates" />
     <option name="defaultScopeName" value="templates" />
     <option name="SEARCH_SCOPE" value="templates" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -12,12 +13,12 @@
       <mask>*.mxml</mask>
       <mask>*.html</mask>
       <mask>*.php</mask>
-      <mask>*.css</mask>
       <mask>*.scss</mask>
       <mask>*.less</mask>
       <mask>*.mustache</mask>
       <mask>*.phtml</mask>
       <mask>*.js</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
