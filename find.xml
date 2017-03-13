@@ -3,7 +3,6 @@
     <option name="customScope" value="templates" />
     <option name="defaultScopeName" value="templates" />
     <option name="SEARCH_SCOPE" value="templates" />
-    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
