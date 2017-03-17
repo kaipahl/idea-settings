@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="templates" />
-    <option name="defaultScopeName" value="templates" />
-    <option name="SEARCH_SCOPE" value="templates" />
+    <option name="customScope" value="folders" />
+    <option name="defaultScopeName" value="folders" />
+    <option name="SEARCH_SCOPE" value="folders" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
