@@ -23,16 +23,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="02753e29-70a3-4d80-be4e-6fea837749eb" name="sba-live.dev" url="http://sba-live.dev">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="50307df7-3153-4dc2-bdb3-6e2488df3de0" name="sba.de" url="http://stadtbetriebe-ahrensburg.de">
-        <fileTransfer host="212.185.125.218" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
+      <webServer id="50307df7-3153-4dc2-bdb3-6e2488df3de0" name="sba.dev" url="http://sba.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="b5c66e45-dd18-4ac9-99ce-0ee442575f1b" name="Nordpattern.dev" url="http://nordpattern.dev">
         <fileTransfer accessType="LOCAL" />

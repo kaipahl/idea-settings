@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="templates" />
-    <option name="defaultScopeName" value="templates" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="templates" />
+    <option name="customScope" value="folders" />
+    <option name="defaultScopeName" value="folders" />
+    <option name="SEARCH_SCOPE" value="folders" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -14,11 +12,11 @@
       <mask>*.mxml</mask>
       <mask>*.html</mask>
       <mask>*.php</mask>
-      <mask>*.css</mask>
       <mask>*.scss</mask>
       <mask>*.less</mask>
       <mask>*.mustache</mask>
       <mask>*.phtml</mask>
+      <mask>*.css</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
