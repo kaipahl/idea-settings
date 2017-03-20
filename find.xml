@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../test/strings.test.js - [aas-scraper]'" />
-    <option name="defaultScopeName" value="File '.../test/strings.test.js - [aas-scraper]'" />
-    <option name="SEARCH_SCOPE" value="File '.../test/strings.test.js - [aas-scraper]'" />
+    <option name="customScope" value="File '.../src/helpers/tv.js - [aas-scraper]'" />
+    <option name="defaultScopeName" value="File '.../src/helpers/tv.js - [aas-scraper]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/helpers/tv.js - [aas-scraper]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
