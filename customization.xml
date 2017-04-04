@@ -54,24 +54,10 @@
       <path value="Toolbar Find Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <path value="VCS Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Git.Pull" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ShowProjectStructureSettings" is_action="true" action_type="1" position="1">
@@ -83,6 +69,20 @@
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Find Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Fetch" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Pull" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Back" is_action="true" action_type="1" position="5">
@@ -131,6 +131,7 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="WebDeployment.Configuration" />
+    <action id="Git.Fetch" icon="$USER_HOME$/Library/Application Support/JetBrains/action-icons/git-fetch-16.png" />
     <action id="FindUsages" icon="$APPLICATION_PLUGINS_DIR$/find-usage.png" />
   </component>
 </application>
