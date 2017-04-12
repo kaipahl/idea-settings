@@ -15,19 +15,8 @@
       <webServer id="adb8092c-a12d-419c-ad03-f80eb5666318" name="digger.dev" url="http://digger.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="3d30d490-835c-4aa3-87cf-c5d201aa06d1" name="digger.kaipahl.info" url="http://digger.kaipahl.info">
-        <fileTransfer host="digger.kaipahl.info" port="21" rootFolder="/digger.kaipahl.info">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="50307df7-3153-4dc2-bdb3-6e2488df3de0" name="sba.dev" url="http://sba.dev">
         <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="b5c66e45-dd18-4ac9-99ce-0ee442575f1b" name="Nordpattern.dev" url="http://nordpattern.dev">
-        <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="edbeb2d2-c6e0-48aa-bd54-fccf933c390e" name="axelveit.com" url="http://axelveit.com">
         <fileTransfer host="axelveit.com" port="21" rootFolder="/www/_axelveit.com">
@@ -38,7 +27,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="008fc934-9c24-40c0-b137-b16a1851a07e" name="HMC" url="http://hair-and-make-up-company.de">
-        <fileTransfer host="87.106.231.45" port="22" accessType="SFTP">
+        <fileTransfer host="144.76.163.12" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -46,7 +35,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="61cb118c-1c40-45a6-a32f-9f477fc07c49" name="aas.de" url="http://allesaussersport.de">
-        <fileTransfer host="87.106.231.45" port="22" rootFolder="/var/www/vhosts/allesaussersport.de/httpdocs" accessType="SFTP">
+        <fileTransfer host="144.76.163.12" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
@@ -54,7 +43,7 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="8db663b1-9aac-4348-b227-72b38a237ff3" name="kaipahl.de" url="http://kaipahl.de">
-        <fileTransfer host="87.106.231.45" port="22" rootFolder="/var/www/vhosts/kaipahl.de/httpdocs" accessType="SFTP">
+        <fileTransfer host="144.76.163.12" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -63,14 +52,6 @@
       </webServer>
       <webServer id="abb6735d-f4a7-4ce5-8a5e-4d04b715260d" name="kai.dev" url="http://kai.dev">
         <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="44a327fd-21f0-4df3-a236-19f2cff06229" name="test.kaipahl.info" url="http://test.kaipahl.info/">
-        <fileTransfer host="87.106.6.47" port="22" rootFolder="/var/www/vhosts/kaipahl.info/test.kaipahl.info" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
       </webServer>
     </option>
   </component>
