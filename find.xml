@@ -1,9 +1,10 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.mustache" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -17,13 +18,14 @@
       <mask>*.less</mask>
       <mask>*.phtml</mask>
       <mask>*.css</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.</mask>
+      <mask>*.must</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
       <mask>*.m</mask>
       <mask>*.mus</mask>
-      <mask>*.must</mask>
       <mask>*.musta</mask>
+      <mask>*.mustac</mask>
       <mask>*.mustache</mask>
     </recentFileMasks>
   </component>
