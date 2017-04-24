@@ -39,7 +39,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="513e4e53-906a-4831-8ffc-d165575a4c7a" name="gritt-pfefferkorn" url="http://gritt.dev">
+      <webServer id="513e4e53-906a-4831-8ffc-d165575a4c7a" name="gritt.dev" url="http://gritt.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="8db663b1-9aac-4348-b227-72b38a237ff3" name="kaipahl.de" url="http://kaipahl.de">
@@ -52,6 +52,11 @@
       </webServer>
       <webServer id="abb6735d-f4a7-4ce5-8a5e-4d04b715260d" name="kai.dev" url="http://kai.dev">
         <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="67acf7ae-04eb-4082-9416-d5c9732a0de6" name="berderow.dev" url="http://b.kaipahl.de">
+        <fileTransfer host="144.76.163.12" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
       </webServer>
     </option>
   </component>
