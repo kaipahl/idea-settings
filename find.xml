@@ -3,7 +3,7 @@
     <option name="customScope" value="sources" />
     <option name="defaultScopeName" value="sources" />
     <option name="SEARCH_SCOPE" value="sources" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.inc" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -30,6 +30,9 @@
       <mask>*.scss</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.i</mask>
+      <mask>*.in</mask>
+      <mask>*.inc</mask>
     </recentFileMasks>
   </component>
 </application>
