@@ -4,7 +4,7 @@
     <property name="created">2017-05-29T12:55:24</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.3.0.0</property>
-    <property name="modified">2017-06-02T11:51:34</property>
+    <property name="modified">2017-06-14T16:15:36</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -12,11 +12,19 @@
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Input Mono Narrow" />
   <attributes>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="7da04b" />
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="DEFAULT_BRACKETS">
+      <value />
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
@@ -32,6 +40,11 @@
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value />
+    </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+      </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
@@ -49,6 +62,43 @@
         <option name="FOREGROUND" value="3884ff" />
       </value>
     </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="7da04b" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="414d81" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="HTML_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="2b2b2b" />
+      </value>
+    </option>
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="80" />
+        <option name="BACKGROUND" value="efefef" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="80" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JS.CLASS">
       <value>
         <option name="FOREGROUND" value="a7ff" />
@@ -64,6 +114,18 @@
     <option name="JS.STRING">
       <value>
         <option name="FOREGROUND" value="737883" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="737883" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="637a43" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
     </option>
   </attributes>
