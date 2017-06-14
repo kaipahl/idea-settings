@@ -4,13 +4,16 @@
     <property name="created">2017-05-29T12:55:24</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.3.0.0</property>
-    <property name="modified">2017-06-14T16:15:36</property>
+    <property name="modified">2017-06-14T17:35:59</property>
     <property name="originalScheme">Default copy</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Input Mono Narrow" />
+  <colors>
+    <option name="CARET_ROW_COLOR" value="adf0ff" />
+  </colors>
   <attributes>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
