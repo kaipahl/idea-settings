@@ -1059,6 +1059,7 @@
         <option name="FOREGROUND" value="64a2a2" />
       </value>
     </option>
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="80ffc2" />
