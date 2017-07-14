@@ -76,6 +76,9 @@
   <action id="OpenGruntConsole">
     <keyboard-shortcut first-keystroke="ctrl meta alt g" />
   </action>
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="ctrl number_sign" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
