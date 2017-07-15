@@ -6,7 +6,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Letter Gothic Std" />
-    <option name="EDITOR_FONT_SIZE" value="11" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
@@ -17,6 +17,7 @@
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="1629" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2240" />
+    <option name="DELETED_LINES_COLOR" value="7f3f3f" />
     <option name="FILESTATUS_ADDED" value="68cccc" />
     <option name="FILESTATUS_MODIFIED" value="8095ff" />
     <option name="GUTTER_BACKGROUND" value="2240" />
@@ -31,6 +32,7 @@
     <option name="SOFT_WRAP_SIGN_COLOR" value="194e80" />
     <option name="TEARLINE_COLOR" value="5f6bab" />
     <option name="WHITESPACES" value="25425c" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3553" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
