@@ -4,6 +4,9 @@
       <entry key="ChangesView">
         <PlaceSettings />
       </entry>
+      <entry key="CommitDialog">
+        <PlaceSettings />
+      </entry>
       <entry key="Default">
         <PlaceSettings>
           <option name="DIFF_TOOLS_ORDER">
@@ -26,6 +29,9 @@
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
       <entry key="ChangesView">
+        <PlaceSettings />
+      </entry>
+      <entry key="CommitDialog">
         <PlaceSettings />
       </entry>
       <entry key="Default">
