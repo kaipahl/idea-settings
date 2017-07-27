@@ -12,11 +12,12 @@
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="X_SMALL" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="174751" />
+    <option name="ADDED_LINES_COLOR" value="651d" />
     <option name="ANNOTATIONS_COLOR" value="3553" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="1629" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2240" />
+    <option name="DELETED_LINES_COLOR" value="833231" />
     <option name="FILESTATUS_ADDED" value="68cccc" />
     <option name="FILESTATUS_MODIFIED" value="8095ff" />
     <option name="GUTTER_BACKGROUND" value="2240" />
