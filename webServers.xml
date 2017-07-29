@@ -35,7 +35,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="61cb118c-1c40-45a6-a32f-9f477fc07c49" name="aas.de" url="http://allesaussersport.de">
-        <fileTransfer host="144.76.163.12" port="22" accessType="SFTP">
+        <fileTransfer host="144.76.163.12" port="22" rootFolder="/var/www/vhosts/allesaussersport.de/httpdocs" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
