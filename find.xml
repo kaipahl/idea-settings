@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="sources" />
+    <option name="defaultScopeName" value="sources" />
+    <option name="SEARCH_SCOPE" value="sources" />
     <recentFileMasks>
       <mask>*.java</mask>
       <mask>*.as</mask>
