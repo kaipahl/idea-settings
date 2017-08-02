@@ -3,6 +3,7 @@
     <option name="customScope" value="sources" />
     <option name="defaultScopeName" value="sources" />
     <option name="SEARCH_SCOPE" value="sources" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.java</mask>
       <mask>*.as</mask>
