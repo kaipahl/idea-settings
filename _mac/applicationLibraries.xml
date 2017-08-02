@@ -30,14 +30,6 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="chai-DefinitelyTyped" type="javaScript">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_chai_chai-2.0.0.d.ts" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_chai_chai.d.ts" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-    </library>
     <library name="cheerio-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_cheerio_index.d.ts" />
@@ -333,17 +325,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/mini_portile2-2.1.0/lib" />
       </SOURCES>
-    </library>
-    <library name="mocha-DefinitelyTyped" type="javaScript">
-      <properties>
-        <option name="frameworkName" value="node_modules" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mocha_mocha.d.ts" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mocha_mocha-node.d.ts" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
     </library>
     <library name="multi_json (v1.12.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
