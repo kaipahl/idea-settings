@@ -27,7 +27,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="008fc934-9c24-40c0-b137-b16a1851a07e" name="HMC" url="http://hair-and-make-up-company.de">
-        <fileTransfer host="144.76.163.12" port="22" accessType="SFTP">
+        <fileTransfer host="144.76.163.12" port="22" rootFolder="/var/www/vhosts/hair-and-make-up-company.de/httpdocs" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
