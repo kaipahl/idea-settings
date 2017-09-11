@@ -14,14 +14,12 @@
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
     <option name="collapseLambdas" value="false" />
-    <option name="COLLAPSE_CLOSURES" value="false" />
-    <option name="COLLAPSE_CONSTRUCTOR_GENERIC_PARAMETERS" value="false" />
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
   <component name="XmlFoldingSettings">
-    <option name="collapseHtmlStyleAttribute" value="false" />
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+    <option name="COLLAPSE_ENTITIES" value="false" />
   </component>
 </application>
