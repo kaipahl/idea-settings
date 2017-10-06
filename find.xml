@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Favorite 'SCSS'" />
-    <option name="defaultScopeName" value="Favorite 'SCSS'" />
-    <option name="SEARCH_SCOPE" value="Favorite 'SCSS'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.java</mask>
       <mask>*.as</mask>
