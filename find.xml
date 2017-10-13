@@ -3,6 +3,7 @@
     <option name="customScope" value="sources" />
     <option name="defaultScopeName" value="sources" />
     <option name="SEARCH_SCOPE" value="sources" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.java</mask>
       <mask>*.as</mask>
@@ -27,13 +28,13 @@
       <mask>*.hbs</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
-      <mask>*.php</mask>
       <mask>*.ss</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
