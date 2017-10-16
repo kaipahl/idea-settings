@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Favorite 'theme-anke2017'" />
-    <option name="defaultScopeName" value="Favorite 'theme-anke2017'" />
-    <option name="SEARCH_SCOPE" value="Favorite 'theme-anke2017'" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.hbs" />
     <recentFileMasks>
       <mask>*.java</mask>
       <mask>*.as</mask>
@@ -19,22 +19,22 @@
       <mask>*.mustac</mask>
       <mask>*.mustache</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.i</mask>
       <mask>*.in</mask>
       <mask>*.inc</mask>
-      <mask>*.h</mask>
       <mask>*.hb</mask>
-      <mask>*.hbs</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.ss</mask>
-      <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.hbs</mask>
     </recentFileMasks>
   </component>
 </application>
