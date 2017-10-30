@@ -3,15 +3,12 @@
     <option name="customScope" value="sources" />
     <option name="defaultScopeName" value="sources" />
     <option name="SEARCH_SCOPE" value="sources" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.html</mask>
       <mask>*.less</mask>
       <mask>*.phtml</mask>
-      <mask>*.css</mask>
       <mask>*.must</mask>
       <mask>*.m</mask>
       <mask>*.mus</mask>
@@ -23,18 +20,21 @@
       <mask>*.inc</mask>
       <mask>*.hb</mask>
       <mask>*.ss</mask>
+      <mask>*.h</mask>
+      <mask>*.hbs</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.h</mask>
-      <mask>*.hbs</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.php</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
