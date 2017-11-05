@@ -3,11 +3,7 @@
     <library name="addressable (v2.5.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES />
       <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/addressable-2.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/addressable-2.5.0/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/addressable-2.5.0/tasks" />
-      </SOURCES>
+      <SOURCES />
     </library>
     <library name="ast (v2.3.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
@@ -619,12 +615,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubocop-0.47.1/config" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubocop-0.47.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubocop-0.47.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubocop-0.47.1/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rubocop-0.47.1/config" />
-      </SOURCES>
+      <SOURCES />
     </library>
     <library name="ruby-progressbar (v1.8.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
@@ -653,13 +644,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sass-3.4.23/vendor" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sass-3.4.23/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sass-3.4.23/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sass-3.4.23/extra" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sass-3.4.23/rails" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sass-3.4.23/vendor" />
-      </SOURCES>
+      <SOURCES />
     </library>
     <library name="shellany (v0.0.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
