@@ -3,7 +3,7 @@
     <option name="customScope" value="Favorite 'themes'" />
     <option name="defaultScopeName" value="Favorite 'themes'" />
     <option name="SEARCH_SCOPE" value="Favorite 'themes'" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.html</mask>
@@ -25,16 +25,16 @@
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.ph</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
