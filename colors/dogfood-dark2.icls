@@ -31,6 +31,7 @@
     <option name="SELECTION_BACKGROUND" value="194d80" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="194e80" />
     <option name="TEARLINE_COLOR" value="5f6bab" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="87ff5a" />
     <option name="WHITESPACES" value="25425c" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="1a33" />
   </colors>
