@@ -1,5 +1,10 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/requirejs" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="addressable (v2.5.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES />
       <JAVADOC />
@@ -338,8 +343,8 @@
     </library>
     <library name="mocha-DefinitelyTyped" type="javaScript">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_mocha_mocha-node.d.ts" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_mocha_index.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_mocha_mocha-node.d.ts" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
