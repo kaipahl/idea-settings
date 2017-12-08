@@ -1081,7 +1081,8 @@
     </option>
     <option name="LESS_INJECTED_CODE">
       <value>
-        <option name="BACKGROUND" value="223545" />
+        <option name="FOREGROUND" value="a3bfcc" />
+        <option name="BACKGROUND" value="2240" />
       </value>
     </option>
     <option name="LESS_JS_CODE_DELIM">
@@ -1092,7 +1093,7 @@
     </option>
     <option name="LESS_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="cccccc" />
+        <option name="FOREGROUND" value="be62cc" />
       </value>
     </option>
     <option name="List/map to object conversion">
