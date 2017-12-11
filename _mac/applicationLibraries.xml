@@ -1,5 +1,10 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/js-yaml" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="addressable (v2.5.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES />
       <JAVADOC />
