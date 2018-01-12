@@ -3,6 +3,7 @@
     <option name="customScope" value="sources" />
     <option name="defaultScopeName" value="sources" />
     <option name="SEARCH_SCOPE" value="sources" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.html</mask>
@@ -17,23 +18,23 @@
       <mask>*.i</mask>
       <mask>*.in</mask>
       <mask>*.inc</mask>
-      <mask>*.hb</mask>
       <mask>*.ss</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
+      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.hb</mask>
+      <mask>*.hbs</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
-      <mask>*.h</mask>
-      <mask>*.hbs</mask>
-      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
