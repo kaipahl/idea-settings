@@ -1,14 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="sources" />
-    <option name="defaultScopeName" value="sources" />
-    <option name="SEARCH_SCOPE" value="sources" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="customScope" value="js-sourcen" />
+    <option name="defaultScopeName" value="js-sourcen" />
+    <option name="SEARCH_SCOPE" value="js-sourcen" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.html</mask>
-      <mask>*.less</mask>
-      <mask>*.phtml</mask>
       <mask>*.must</mask>
       <mask>*.m</mask>
       <mask>*.mus</mask>
@@ -25,8 +20,6 @@
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.hb</mask>
@@ -35,6 +28,12 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
