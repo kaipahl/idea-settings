@@ -3,7 +3,6 @@
     <option name="customScope" value="sources" />
     <option name="defaultScopeName" value="sources" />
     <option name="SEARCH_SCOPE" value="sources" />
-    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.must</mask>
       <mask>*.m</mask>
