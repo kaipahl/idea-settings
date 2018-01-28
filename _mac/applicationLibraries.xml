@@ -1,5 +1,20 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/chai" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/mocha" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="@types/requirejs" type="javaScript">
       <CLASSES />
       <JAVADOC />
