@@ -58,6 +58,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="b5c21ad2-0f97-4091-acaf-bee92d901be4" name="ankegroener.de" url="http://ankegroener.de">
+        <fileTransfer host="144.76.163.12" port="22" rootFolder="/var/www/vhosts/ankegroener.de/httpdocs" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
