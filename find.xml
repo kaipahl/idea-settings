@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="sources" />
+    <option name="FILE_MASK" value="*.hbs" />
     <recentFileMasks>
       <mask>*.must</mask>
       <mask>*.m</mask>
@@ -25,7 +26,6 @@
       <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.hb</mask>
-      <mask>*.hbs</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
@@ -36,6 +36,7 @@
       <mask>*.less</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.hbs</mask>
     </recentFileMasks>
   </component>
 </application>
