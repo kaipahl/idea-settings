@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="sources" />
     <option name="defaultScopeName" value="sources" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="sources" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.must</mask>
       <mask>*.m</mask>
@@ -34,9 +32,9 @@
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.hbs</mask>
       <mask>*.scss</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
